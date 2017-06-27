@@ -23,7 +23,7 @@ Also in practical9b the given shape (template) will be tracked as it moves in a 
 
 ## Part G-H
 Combines Tracking and Homogrpahies. Track the four corners of a square cut out and project a cube on top as the camera moves through the frames.
-=======
+
 
 
 

@@ -9,6 +9,7 @@ This folder contains implementation of mixture of gaussians using both gaussian 
 Given uncopyrighted images of apples with corresopnding masked images (on the apples), a mixture of gaussians model is trained to classify apples in test images not seen during training.
 
 * Images of the apples and masks used can be found in the corresponding folders above.
+<<<<<<< HEAD
 
 # Homographies and Tracking
 
@@ -22,3 +23,8 @@ Also in practical9b the given shape (template) will be tracked as it moves in a 
 
 ## Part G-H
 Combines Tracking and Homogrpahies. Track the four corners of a square cut out and project a cube on top as the camera moves through the frames.
+=======
+
+* All code is written in Matlab.
+
+>>>>>>> 8d34a5294ae26a08353e24d4d046e4db93e0dcdc

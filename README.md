@@ -27,4 +27,4 @@ Combines Tracking and Homogrpahies. Track the four corners of a square cut out a
 
 * All code is written in Matlab.
 
->>>>>>> 8d34a5294ae26a08353e24d4d046e4db93e0dcdc
+
